@@ -15,6 +15,7 @@ dependencyResolutionManagement {
 rootProject.name = "stream_relay"
 
 include(":app")
+include(":libutils")
 include(":libausbc")
 include(":libuvc")
 include(":libnative")
