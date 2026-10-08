@@ -26,5 +26,5 @@ android {
 dependencies {
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("androidx.appcompat:appcompat:1.7.0")
-    implementation("com.github.jiangdongguo.AndroidUSBCamera:libausbc:3.3.3")
+    implementation("com.github.ernestp.AndroidUSBCamera:libausbc:v3.6.0")
 }
